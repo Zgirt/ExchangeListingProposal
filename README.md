@@ -7,12 +7,13 @@ Request to CCF to approve **75.52** bln Qubics for listings on exchanges
 Proposal
 --------
 
-Available Options:
-Option 0: **No, I don’t want**
-Option 1: **Yes, approve the requested amount**
+Available Options: <br>
+Option 0: **No, I don’t want** <br>
+Option 1: **Yes, approve the requested amount** <br>
 
 
-**Details**
+
+**Details** <br>
 Qubic Core Services (QCS) is thrilled to announce its plans for enhancing liquidity across multiple exchanges, with a focus on the United States and Southeast Asia. These listings will expand Qubic’s distribution to new geographies, unlocking access to a broader user base. Recent data indicates a growing interest from users based on the daily liquidity exceeding $50M USD, we are preparing the infrastructure to take Qubic to the next level. On one hand, we are making a significant move with an exchange available in all US states. On the other, we are initiating the first step towards listing on a Tier 1 futures exchange, paving the way for spot listings on Tier 1 exchanges by Q1 2025.
 We're raising funds for several exchanges listings which are in the making and close to completion:
 
