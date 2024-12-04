@@ -26,7 +26,7 @@ The estimated total cost for these listings, including fees, integration, MM and
 And as a special reminder: these funds will exclusively be used for listing purposes. 
 
 **Campaign Details:**<br>
-Target Amount: **75.52 bln**<br>
+Target Amount: **75.52 bln** @4500/bln  <br> 
 **Timeline: before EOY**<br>
 QU Donation Address: <br>
 `EXCEXRFCGCLFRAMXIRLDUAENACKDVQPIZIOJRWTQRCMYWFHFYYFDBQXFINMO`
@@ -35,14 +35,15 @@ QU Donation Address: <br>
  Campaign Rules:
 Full transparency in the use of funds, with reports provided in line with other financial disclosures (subject to NDAs).
 All funds raised, regardless of whether the target amount is met or exceeded, will be exclusively used for listing purposes.
-No funds will be diverted for handling listing matters or other related tasks.
+No funds will be used for tasks other than handling listing fees, integration, and Market Maker agreement.
 
- Thank you for your continued support and belief in Qubic. Current overview of funding: 
+Thank you for your continued support and belief in Qubic. <br>
+**Current overview of funding:** 
 
 **Exchanges:** <br>
-Bybit: 65.2b <br>
-Weex: 6.91b <br>
-Coinstore: 3.41b <br>
+**Bybit**: 65.2b <br>
+**Weex**: 6.91b <br>
+**Coinstore**: 3.41b <br>
 
-Total = 75.52b
+**Total** = 75.52b
 
