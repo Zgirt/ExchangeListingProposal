@@ -38,12 +38,4 @@ All funds raised, regardless of whether the target amount is met or exceeded, wi
 No funds will be used for tasks other than handling listing fees, integration, and Market Maker agreement.
 
 Thank you for your continued support and belief in Qubic. <br>
-**Current overview of funding:** 
-
-**Exchanges:** <br>
-**Bybit**: 65.2b <br>
-**Weex**: 6.91b <br>
-**Coinstore**: 3.41b <br>
-
-**Total** = 75.52b
 
