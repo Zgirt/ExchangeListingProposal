@@ -25,11 +25,11 @@ The estimated total cost for these listings, including fees, integration, MM and
 
 And as a special reminder: these funds will exclusively be used for listing purposes. 
 
-**Campaign Details:**
-Target Amount: 75.52 bln
-Timeline: before EOY
-QU Donation Address: 
-
+**Campaign Details:**<br>
+Target Amount: **75.52 bln**<br>
+**Timeline: before EOY**<br>
+QU Donation Address: <br>
+`EXCEXRFCGCLFRAMXIRLDUAENACKDVQPIZIOJRWTQRCMYWFHFYYFDBQXFINMO`
 
 
  Campaign Rules:
