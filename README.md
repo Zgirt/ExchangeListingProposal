@@ -1,7 +1,7 @@
 Exchange Listings Proposal
 ---------------------------
 
-Request to CCF to approve **75.52** bln Qubics for listings on exchanges
+Request to CCF to approve **76.65** bln Qubics for listings on exchanges
 
 --------
 Proposal
@@ -26,7 +26,7 @@ The estimated total cost for these listings, including fees, integration, MM and
 And as a special reminder: these funds will exclusively be used for listing purposes. 
 
 **Campaign Details:**<br>
-Target Amount: **75.52 bln** @4500/bln  <br> 
+Target Amount: **76.65 bln** @4500/bln  <br> 
 **Timeline: before EOY**<br>
 QU Donation Address: <br>
 `EXCEXRFCGCLFRAMXIRLDUAENACKDVQPIZIOJRWTQRCMYWFHFYYFDBQXFINMO`
